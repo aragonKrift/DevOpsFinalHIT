@@ -6,7 +6,7 @@
   <body>
     <h1>Welcome to Simple JSP Application</h1>
     <form action="result.jsp" method="post">
-      <label for="userInput">Enter a thing:</label>
+      <label for="userInput">Enter text:</label>
       <input type="text" id="userInput" name="userInput" required />
       <button type="submit">Submit</button>
     </form>
