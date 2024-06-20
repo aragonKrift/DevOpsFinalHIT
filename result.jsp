@@ -4,7 +4,7 @@
     <title>Result Page</title>
   </head>
   <body>
-    <h1>Result Page</h1>
+    <h1>Result Text</h1>
     <p>
       You entered: <% String userInput = request.getParameter("userInput"); if
       (userInput != null && !userInput.trim().isEmpty()) { out.print(userInput);
