@@ -4,7 +4,7 @@
     <title>Simple JSP Application</title>
   </head>
   <body>
-    <h1>Simple JSP Application</h1>
+    <h1>Welcome to Simple JSP Application</h1>
     <form action="result.jsp" method="post">
       <label for="userInput">Enter text:</label>
       <input type="text" id="userInput" name="userInput" required />
